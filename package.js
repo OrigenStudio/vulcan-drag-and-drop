@@ -2,7 +2,7 @@ Package.describe({
   name: 'origenstudio:vulcan-drag-and-drop',
   summary: 'Drag and drop helpers',
   version: '0.0.1',
-  git: '', // coming soon
+  git: 'https://github.com/OrigenStudio/vulcan-drag-and-drop',
 });
 
 Package.onUse(api => {
