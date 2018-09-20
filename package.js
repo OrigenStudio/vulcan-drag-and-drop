@@ -10,7 +10,7 @@ Package.onUse(api => {
 
   api.use([
     // Vulcan packages
-    'vulcan:core',
+    'vulcan:core@1.11.0',
   ]);
 
   api.mainModule('lib/client/main.js', 'client');
